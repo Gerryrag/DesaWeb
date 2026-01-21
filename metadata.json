@@ -1,0 +1,7 @@
+{
+  "name": "DesaConnect - Portal Digital Desa",
+  "description": "Website resmi DesaConnect sebagai pusat informasi, layanan publik, transparansi, dan pemberdayaan UMKM desa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
